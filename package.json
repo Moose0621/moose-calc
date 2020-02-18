@@ -1,10 +1,10 @@
 {
-  "name": "@Moose0621/10th-mag-calculator",
+  "name": "@Moose0621/moose-calc",
   "version": "1.0.0",
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moose0621/10th-mag-calculator.git"
+    "url": "git+https://github.com/moose0621/moose-calc.git"
   },
   "main": "index.js",
   "scripts": {
