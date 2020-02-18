@@ -1,10 +1,10 @@
 {
-  "name": "@octodemo/node-calculator",
+  "name": "@Moose0621/10th-mag-calculator",
   "version": "1.0.0",
   "description": "Calculator",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/octodemo/node-calculator.git"
+    "url": "git+https://github.com/moose0621/10th-mag-calculator.git"
   },
   "main": "index.js",
   "scripts": {
